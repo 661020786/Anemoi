@@ -28,7 +28,7 @@ While not as powerful as a larger C-R box using a 20" fan, it has the advantage 
 It's more economical to buy items in bulk.  So I buy two six-packs of filters, three fan assemblies, and three sheets of foam core board, and maybe a couple of rolls of closed-cell tape.
 
 #### One (1) GDSTIME ROUTER COOLING FAN ASSEMBLY
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220407175551.png|200]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220407175551.png|200]
 - 245mm(L) x 245mm(W) x 50mm(H) or  9.65in(L) x 9.65in(W) x 1.97(H)
 - [Amazon Canada Link](https://www.amazon.ca/gp/product/B08M9894FT/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&th=1)
 - [Amazon USA Link](https://www.amazon.com/GDSTIME-Rounter-Cooling-Control-RT-AC5300/dp/B07TNXC9NL/ref=sr_1_4?crid=2OK4C4DYKHWX6&keywords=router+fan&qid=1649366820&sprefix=router+fan%2Caps%2C91&sr=8-4)
@@ -36,7 +36,7 @@ It's more economical to buy items in bulk.  So I buy two six-packs of filters, t
 
 
 #### Four (4) Type "R" HEPA Filters
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220407100811.png|200]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220407100811.png|200]
 This is any HEPA filter that fits a Honeywell HPA300/200/100 Series purifier.  If you buy two packs of six, you can build three units.
 - Amazon Canada Links:
 	- [LINNIW HPA300 True HEPA Filter R Compatible - 6 Pack $53.99](https://www.amazon.ca/LINNIW-Replacement-Honeywell-Purifier-Replacements/dp/B08JM3RRJJ/ref=sr_1_6?crid=2PNLPO7EZ05ST&keywords=filter+R.+Altec&qid=1649340060&sprefix=filter+r+altec%2Caps%2C60&sr=8-6)
@@ -51,7 +51,7 @@ This is any HEPA filter that fits a Honeywell HPA300/200/100 Series purifier.  I
 
 	  
 #### Formboard (3/16" thickness = 4.7mm to 5mm thickness)
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220407175728.png|200]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220407175728.png|200]
 - Black is a good choice since the black fan assembly will be mounted in one of these boards
 - The most practical size is 20" by 30".  This will supply the material for one unit.  So if you are building three, you need three 20" x 30" boards.  The best deals on Amazon seem to be 10-packs
 - Amazon USA Links
@@ -64,23 +64,23 @@ This is any HEPA filter that fits a Honeywell HPA300/200/100 Series purifier.  I
 
 
 #### 3/16 " close cell foam tape
-- ![[https://github.com/661020786/Anemoi/Pasted%20image%2020220407175251.png|200]]
+- ![https://github.com/661020786/Anemoi/Pasted%20image%2020220407175251.png|200]
 	- I only have a link for Amazon Canada:  Something like this would work [Frost King R338H Self-Stick Rubber Foam Weatherseal](https://www.amazon.ca/Frost-King-R338H-Sponge-16-Inch/dp/B000BQWWF4/ref=sr_1_14?crid=S8UX2ZFL2SSU&keywords=frost%2Bking%2Bfoam%2Bweather%2Bseal&qid=1649368166&sprefix=frost%2Bking%2Bfoam%2Bweather%2Bseal%2Caps%2C69&sr=8-14&th=1)
 	- Basically a foam tape that is less than 10mm wide and about 5mm tall.  It's main function is to serve as a stop when you insert the HEPA filters.
 
 # Tools Needed
 #### Glue Gun
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220407180138.png|200]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220407180138.png|200]
 And some glue sticks
 ### Box-cutter, X-acto knife
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220407180111.png|200]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220407180111.png|200]
 Something like this. Fresh blades are important.  
 ### T-square
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220407180026.png|200]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220407180026.png|200]
 Not all foam boards are going to be cut at perfect right angles.   So you need some way to cut a perfect square with really good 90 degree angles.
 
 It's important that you have a surface that is safe to cut on.  I use a PVC self-sealing cutting map like this:
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408110602.png|200]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408110602.png|200]
 
 # Overview
 Here's how the whole apparatus fits together
@@ -92,54 +92,54 @@ Cut two (2) large square pieces of foam board, 350mm x 350mm.  One will serve as
 ![[CR-j6v1-f 1.png]]
 
 With the remaining material, cut eight (8) rectancles for the struts.    All eight (8) will be 165mm long (not coincidentally, the width of a Type "R" filter).   Four of them will be 40mm wide and four (4) of them will be 45mm wide.  The 5mm different is (also not coincidentally) the thickness of our foam-core board.
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408115306.png|400]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408115306.png|400]
 
 Now we have all the foam core pieces we need.  Next we start putting it together.
 
 Grabe one of the 35cm x 35cm board we previously notched out.  We will call this one the "Top" piece (and the other one will be the "Base" piece.) 
 
 Place the fan assembly upside down on the Top piece.   Position it evenly in the center of the Top piece.  Each side of the fan assembly should be about 52mm from the nearest edge. (Note: In this diagram, the fan grills on top of and below the fan assembly are not shown.   That's simply because I couldn't find a model for them.   Don't remove them to try to match this diagram's appearance.)
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408102808.png]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408102808.png]
 Once centered to your satisfaction, trace an outline of the fan assembly with a pencil.  Using your knife, remove the outlined area.  It should be close to 246mm wide in both directions.
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408124855.png]]
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408103455.png]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408124855.png]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408103455.png]
 Set the fan, upside down, into this opening.   It should rest comfortably on the cutting mat below.  If it doesn't seem to fit, try rotating it by 90-degree increments.  The fan assembly may not be perfectly square, so you'll need to orient it exactly as it was positioned when you traced the outline with a pencil.  If it doesn't fit, you're on your own at this point.
 
 For the next step, I generally put a sheet of parchment paper underneath, so the hot glue doesn't bond to my cutting mat.
 
 Run a bead of hot glue around the entire perimeter of the fan assembly.  (Remember, this is going to be the under-side of the Top.). I generally aim for the gap between the fan assembly and the board.   Let it cool long enough that the fan assembly is securely bonded to the foam core Top.
 
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408110120.png|400]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408110120.png|400]
 
 The final step of the Top apparatus, is to attach strips of foam tape to act as a stopper when you insert a filter.  Apply a strip along each side of the fan assembly.   They should line up with the notches.  This will give the filter about 4cm of space.  
 
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408113528.png|400]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408113528.png|400]
 
 While we have our foam tape handy, now is a good time to grab the Base piece and apply some filter-stoppers to it in the corresponding place.
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408120314.png|400]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408120314.png|400]
 
 Now we can move onto the struts that connect the Top to the Base.   For this we will need our eight (8) 165cm long rectangles.   Pair up one 40mm wide rectangle and one 45mm rectange to form an L-shape:
 
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408121738.png|400]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408121738.png|400]
 
 We are going to use these struts to secure the Fan Assembly's power cable.   Using a knife or a pen, make a notch at the bottom of ==one== of the four struts.    Plan ahead so that this strut is going to be placed near the power cable extending from the Fan Assembly.
 
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408154130.png]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408154130.png]
 
 
 Using your glue gun, glue each of these four (4) struts to the corners.  They should be set on top of the Top panel. (That, is they aren't glued to the edge of the Top panel.). The strut with the Power Cable notch should be glued with the notch "up" in the diagram below:
 
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408125500.png]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408125500.png]
 
 Let the struts dry for 10 or 15 minutes to ensure that they have bonded well.
 
 Lay the power cable through the notch and fix it there with some glue from the glue gun
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408160901.png]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408160901.png]
 
 
 The last piece of assembly is to line up Base piece and glue it to the struts.  Again, let everything dry well before attempting to insert any filters.
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408161730.png]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408161730.png]
 
 Let it dry for a good 20 minutes.  Turn it over onto its base and insert filters.
 
-![[https://github.com/661020786/Anemoi/Pasted%20image%2020220408151846.png]]
+![https://github.com/661020786/Anemoi/Pasted%20image%2020220408151846.png]
